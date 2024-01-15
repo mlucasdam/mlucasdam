@@ -19,6 +19,6 @@ Como entusiasta da segurança cibernética, busco constantemente aprimorar minha
 Contato
 Se você compartilha interesses similares ou está interessado em colaborar, sinta-se à vontade para entrar em contato. Estou sempre aberto a novas oportunidades, aprendizados e colaborações emocionantes!
 
-LinkedIn: [[Meu Linkedin 🧑‍💼](https://www.linkedin.com/in/lucas-muniz-damiani-36006b239/)]
+LinkedIn: [Meu Linkedin 🧑‍💼(https://www.linkedin.com/in/lucas-muniz-damiani-36006b239/)]
 
 Vamos construir um futuro digital mais seguro e inovador juntos! 🚀
